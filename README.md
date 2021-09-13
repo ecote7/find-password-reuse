@@ -1,6 +1,6 @@
 # find-password-reuse
 
-Determine if a NTLM hash of a an account is equivalent to another user account...you know...to expose some bad practices and maybe slap some sys admin behind the head :P I use it to underline bad practices of users with DA account.
+Determine if a NTLM hash of a an account is equivalent to another user account...you know...to expose some bad practices. I use it to underline bad practices of users with DA account.
 
 Create a file with the DA usernames that you wish to search for and save your AD NTLM hashes dump (I use CME export format) into a file.
 
